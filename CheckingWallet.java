@@ -3,7 +3,7 @@ package Wallet;
 public class CheckingWallet extends Wallet  {
 	//transaction fee
 	// this amount will be deducted on every transaction on this account
-	
+	//changes are done to learn git
 	
 	
 
